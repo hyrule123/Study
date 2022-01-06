@@ -1,3 +1,6 @@
-#pragma once
-//¿©±â¿¡ ½ÇÇàÇÒ ¸Ş¼Òµå ¸íÀ» Ãß°¡ÇÏ°í ½ÇÇà
-void solution1();
+ï»¿#pragma once
+//ì—¬ê¸°ì— ì‹¤í–‰í•  ë©”ì†Œë“œ ëª…ì„ ì¶”ê°€
+
+
+
+void SelectionSort(int* arr, int arrLen);
