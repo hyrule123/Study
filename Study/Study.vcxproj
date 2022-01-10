@@ -140,9 +140,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="MyInsertionSort.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="solution1.cpp" />
-    <ClCompile Include="SelectionSort.cpp" />
+    <ClCompile Include="MySelectionSort.cpp" />
+    <ClCompile Include="InsertionSort.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RUN.h" />
